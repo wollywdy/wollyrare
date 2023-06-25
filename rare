@@ -1,0 +1,11 @@
+setTitle(textJoin("for real horses ", undefined));
+addLine(textJoin(" this will not sound like poetry ", undefined));
+addLine(textJoin("but I know a lot about horses couse I ride.", undefined));
+addLine(textJoin("some things people say are right like pretty, troting .", undefined));
+addLine(textJoin("but some are wrong", undefined));
+addLine(textJoin("horses live in a stable ", undefined));
+addLine(textJoin("some horses nip ", undefined));
+addLine(textJoin("but most importently horses are like us go by your perspective live your life", undefined));
+addLine(textJoin("Index NIP, bite. PERSPECTIVE, thoughts. STABLE,barn.TROTING,middle of gallop and walk.", undefined));
+makeNumSprites(3, "horse_2");
+setBackgroundImageAs("farm_land");
